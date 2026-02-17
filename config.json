@@ -20,7 +20,7 @@
     "introText": "click ?",
     "description": "n o t i m e_4 l u v",
     "location": "Hell 🔥",
-    "profileImage": "https://cdn.discordapp.com/attachments/1464718145745981594/1473276286855020564/awf.jpg?ex=69959ef6&is=69944d76&hm=0da576c90e3d89ff30979b57e6f942a532765354252a77e979e7339a96ee06ff&"
+    "profileImage": "https://media.discordapp.net/attachments/1464718145745981594/1473276286855020564/awf.jpg?ex=69959ef6&is=69944d76&hm=0da576c90e3d89ff30979b57e6f942a532765354252a77e979e7339a96ee06ff&=&format=webp&width=900&height=685"
   },
   "badges": [
     { "name": "Nitro", "icon": "badges/nitro.webp" },
@@ -43,18 +43,18 @@
     {
       "name": "discord",
       "url": "discord.gg/lusthra",
-      "icon": "https://cdn.discordapp.com/attachments/1464718145745981594/1473277591820570666/discrd.png?ex=6995a02e&is=69944eae&hm=2ecd544eda47cee0785719ee27190ab00343abf1045c47cc9b43ff26a6e265bb&"
+      "icon": "https://media.discordapp.net/attachments/1464718145745981594/1473277591820570666/discrd.png?ex=6995a02e&is=69944eae&hm=2ecd544eda47cee0785719ee27190ab00343abf1045c47cc9b43ff26a6e265bb&=&format=webp&quality=lossless&width=640&height=640"
     },
     {
       "name": "spotify",
       "url": "",
-      "icon": "https://cdn.discordapp.com/attachments/1464718145745981594/1473277592210505859/spotg.png?ex=6995a02e&is=69944eae&hm=7fc3b573958c16daf07ea95427366082787d349696af1119ee9eb0321b6bd989&"
+      "icon": "https://media.discordapp.net/attachments/1464718145745981594/1473277592210505859/spotg.png?ex=6995a02e&is=69944eae&hm=7fc3b573958c16daf07ea95427366082787d349696af1119ee9eb0321b6bd989&=&format=webp&quality=lossless&width=640&height=640"
     }
   ],
   "site": {
     "title": "hello world.",
     "titleTypewriter": "yuh be bawaa 💀",
-    "favicon": "https://cdn.discordapp.com/attachments/1464718145745981594/1473277590595702979/iaw.gif?ex=6995a02d&is=69944ead&hm=94a84f0601cd742e6019e85fe540e4369bd280891119e2a417a078fca74ebaa4&",
+    "favicon": "https://media.discordapp.net/attachments/1464718145745981594/1473277590595702979/iaw.gif?ex=6995a02d&is=69944ead&hm=94a84f0601cd742e6019e85fe540e4369bd280891119e2a417a078fca74ebaa4&=&width=560&height=539",
     "background": {
       "type": "video",
       "video": "videos/video.mp4",
@@ -77,4 +77,5 @@
     "layout": "vertical"
   }
 }
+
 
