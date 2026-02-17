@@ -30,9 +30,9 @@
   "music": {
     "enabled": true,
     "title": "YİN & YANG",
-    "url": "songs/song.mp3",
+    "url": "songs/motive.mp3",
     "duration": 154,
-    "albumCover": "images/album_cover.png"
+    "albumCover": "images/album.png"
   },
   "social": [
     {
@@ -77,6 +77,7 @@
     "layout": "vertical"
   }
 }
+
 
 
 
