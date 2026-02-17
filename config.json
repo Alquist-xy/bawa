@@ -16,11 +16,11 @@
     }
   },
   "personal": {
-    "name": "wapers",
-    "introText": "click?",
-    "description": "nie noldu kanka",
-    "location": "ofya",
-    "profileImage": "https://media.discordapp.net/attachments/1233881503923179572/1386837642448207962/da25f6b19ffd9430c5de972f8414bc25.jpg?ex=686a51f4&is=68690074&hm=7ed40bec2e22bf96731c10af85fc043b5bab486aea7ab711b97fd817b68c92ce&=&format=webp&width=800&height=800"
+    "name": "bawaa",
+    "introText": "click ?",
+    "description": "n o t i m e_4 l u v",
+    "location": "Hell 🔥",
+    "profileImage": "https://cdn.discordapp.com/attachments/1464718145745981594/1473276286855020564/awf.jpg?ex=69959ef6&is=69944d76&hm=0da576c90e3d89ff30979b57e6f942a532765354252a77e979e7339a96ee06ff&"
   },
   "badges": [
     { "name": "Nitro", "icon": "badges/nitro.webp" },
@@ -29,7 +29,7 @@
   ],
   "music": {
     "enabled": true,
-    "title": "Farketmezz",
+    "title": "YİN & YANG",
     "url": "songs/song.mp3",
     "duration": 154,
     "albumCover": "images/album_cover.png"
@@ -38,23 +38,23 @@
     {
       "name": "instgram",
       "url": "",
-      "icon": "https://media.discordapp.net/attachments/1377626022798819348/1399875025925967923/instagram_logo.png?ex=688a96b6&is=68894536&hm=7f3ae4b18a9455e2e47758a31bb54156a9a5a73e3dc4bc7b4bfd684462e2cf77&=&format=webp&quality=lossless&width=640&height=640"
+      "icon": "https://media.discordapp.net/attachments/1464718145745981594/1473277591405465756/insta.png?ex=6995a02d&is=69944ead&hm=4d2209cccfe4a89dfd218cb40a389c10d0c13595756ab564131427f09847d242&=&format=webp&quality=lossless&width=640&height=640"
     },
     {
       "name": "discord",
-      "url": "discord.gg/yokbişeyboş",
-      "icon": "https://media.discordapp.net/attachments/1377626022798819348/1399874291717111843/discord_logo.png?ex=688a9607&is=68894487&hm=da385eead309f80111a0081a71ad6f3ceeeb9a0153d90167babc87b5f008c10b&=&format=webp&quality=lossless&width=640&height=640"
+      "url": "discord.gg/lusthra",
+      "icon": "https://cdn.discordapp.com/attachments/1464718145745981594/1473277591820570666/discrd.png?ex=6995a02e&is=69944eae&hm=2ecd544eda47cee0785719ee27190ab00343abf1045c47cc9b43ff26a6e265bb&"
     },
     {
       "name": "spotify",
       "url": "",
-      "icon": "https://media.discordapp.net/attachments/1377626022798819348/1399878710793863178/sads.png?ex=688a9a25&is=688948a5&hm=23d4c9a542e4cc7da378e69afe2fdece15d01113dbeb6679c606cc4851d23600&=&format=webp&quality=lossless&width=320&height=320"
+      "icon": "https://cdn.discordapp.com/attachments/1464718145745981594/1473277592210505859/spotg.png?ex=6995a02e&is=69944eae&hm=7fc3b573958c16daf07ea95427366082787d349696af1119ee9eb0321b6bd989&"
     }
   ],
   "site": {
-    "title": "wapers 😁",
-    "titleTypewriter": "sakinlik 😁",
-    "favicon": "https://media.discordapp.net/attachments/1233881503923179572/1374211059774132294/e042998a-c3fb-4bc7-903c-7eac4d52133b.jpeg?ex=686a8708&is=68693588&hm=14c84fb8dba87048a98266a864d24433138bdfc0feada39adf3671922607659a&=&format=webp&width=593&height=593",
+    "title": "hello world.",
+    "titleTypewriter": "yuh be bawaa 💀",
+    "favicon": "https://cdn.discordapp.com/attachments/1464718145745981594/1473277590595702979/iaw.gif?ex=6995a02d&is=69944ead&hm=94a84f0601cd742e6019e85fe540e4369bd280891119e2a417a078fca74ebaa4&",
     "background": {
       "type": "video",
       "video": "videos/video.mp4",
@@ -77,3 +77,4 @@
     "layout": "vertical"
   }
 }
+
