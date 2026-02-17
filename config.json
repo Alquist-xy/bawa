@@ -53,7 +53,7 @@
   ],
   "site": {
     "title": "hello world.",
-    "titleTypewriter": "yuh be bawaa 💀",
+    "titleTypewriter": "yuh bawaa 💀",
     "favicon": "https://media.discordapp.net/attachments/1464718145745981594/1473277590595702979/iaw.gif?ex=6995a02d&is=69944ead&hm=94a84f0601cd742e6019e85fe540e4369bd280891119e2a417a078fca74ebaa4&=&width=560&height=539",
     "background": {
       "type": "video",
@@ -77,5 +77,6 @@
     "layout": "vertical"
   }
 }
+
 
 
