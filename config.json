@@ -23,9 +23,9 @@
     "profileImage": "https://media.discordapp.net/attachments/1483208661009563688/1483228445616902286/image.png?ex=69b9d3a2&is=69b88222&hm=9f619398357ea345be37d2f3c3fa7627cd947cd030ddafa5e5f7c295e01a7d99&=&format=webp&quality=lossless&width=900&height=685"
   },
   "badges": [
-    { "name": "el1", "icon": "badges/el1.png" },
+    { "name": "kanat1", "icon": "badges/kanat1.gif" },
     { "name": "3dgifmaker86836", "icon": "badges/3dgifmaker86836.gif" },
-    { "name": "el2", "icon": "badges/el2.png" }
+    { "name": "kanat2", "icon": "badges/kanat2.gif" }
   ],
   "music": {
     "enabled": true,
