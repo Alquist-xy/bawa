@@ -38,23 +38,23 @@
     {
       "name": "instgram",
       "url": "",
-      "icon": "https://media.discordapp.net/attachments/1519023831405166682/1522273292864590064/8CE669E4-B5F1-4929-B625-673DC2D7EA10.png?ex=6a47defb&is=6a468d7b&hm=b45c5f59a37a85445d173a22aeef24eef5e4cfaceceadc3bc6d3ed00ba1bdac3&=&format=webp&quality=lossless&width=800&height=800"
+      "icon": "https://media.discordapp.net/attachments/1255692212717752513/1363146259744948244/a_610a9bf90f35bacbee62143f1b69cdef.gif?ex=6a47bae2&is=6a466962&hm=1387a587b86c8a732e7ffd20cf573224a5979a2c141276b5f733e3bf29612106&=&width=278&height=278"
     },
     {
       "name": "discord",
       "url": "discord.gg/aquality",
-      "icon": "https://media.discordapp.net/attachments/1255692212717752513/1435075876935958548/3dgifmaker50928.gif?ex=6a47b6cf&is=6a46654f&hm=67787767f8ec36b3e2c9d50fff458234d3f3e25bf59b3d109441175ea201d5f8&=&width=313&height=313"
+      "icon": "https://media.discordapp.net/attachments/1255692212717752513/1480655306186031125/4608a52d1c6661c871c70380d2df011f.gif?ex=6a476af6&is=6a461976&hm=1815abb503760e82d916533b1747f5fb5ce9c7f1b77061af9d2be08bc8b0ca2a&=&width=675&height=433"
     },
     {
       "name": "spotify",
       "url": "",
-      "icon": "https://media.discordapp.net/attachments/1519023831405166682/1522273291694243971/D8FD1CB6-7C81-4F5D-A0B2-27069A3074DF.png?ex=6a47defb&is=6a468d7b&hm=91e921b5cdbfd34a278d9fa349db3fc34df162c9b1a5b82695f3e2e016095fdd&=&format=webp&quality=lossless&width=1369&height=800"
+      "icon": "https://media.discordapp.net/attachments/1255692212717752513/1452405035454566530/image_55.gif?ex=6a4779d8&is=6a462858&hm=5cd277d193c66540dcd5d9bfa459a55d83e64466d63b7b91f08c1b6532f2c451&=&animated=true&width=313&height=313"
     }
   ],
   "site": {
     "title": "hello world.",
     "titleTypewriter": "yuh bawaa 💀",
-    "favicon": "https://media.discordapp.net/attachments/1255692212717752513/1480655306186031125/4608a52d1c6661c871c70380d2df011f.gif?ex=6a476af6&is=6a461976&hm=1815abb503760e82d916533b1747f5fb5ce9c7f1b77061af9d2be08bc8b0ca2a&=&width=675&height=433",
+    "favicon": "https://media.discordapp.net/attachments/1255692212717752513/1449471660364267630/C5AD3E31-08FC-430D-9886-C74A272E7D32.gif?ex=6a4759ed&is=6a46086d&hm=d619f47a9c21b32e66e9ffdc6b18d66523463a09705c17553c6c4267237dc04f&=&width=390&height=375",
     "background": {
       "type": "video",
       "video": "videos/video.mp4",
